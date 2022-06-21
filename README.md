@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Link
 
-- Solution URL: [Loopstudios landing page](https://your-solution-url.com)
+- Solution URL: [Loopstudios landing page](https://loopstudios-landing-page-aislandmin.vercel.app/)
 
 ### Built with
 
